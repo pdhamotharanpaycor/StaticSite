@@ -6,48 +6,48 @@
   },
   "clients": [
     {
-      "name": "TechCorp Solutions",
-      "logo": "https://via.placeholder.com/200x80/4f46e5/ffffff?text=TechCorp",
+      "name": "Quantum Dynamics Corp",
+      "logo": "https://logoipsum.com/logo/logo-116.svg",
       "industry": "Technology",
       "project": "Cloud Migration & AI Integration",
       "testimonial": "TechNova transformed our legacy systems into a modern, AI-powered platform. The results exceeded our expectations.",
       "result": "40% increase in operational efficiency"
     },
     {
-      "name": "FinanceFlow Inc",
-      "logo": "https://via.placeholder.com/200x80/0ea5e9/ffffff?text=FinanceFlow",
+      "name": "Meridian Financial Group",
+      "logo": "https://logoipsum.com/logo/logo-115.svg",
       "industry": "Financial Services",
       "project": "Custom Trading Platform",
       "testimonial": "Their expertise in building secure, high-performance financial applications is unmatched.",
       "result": "Real-time processing of 10M+ transactions"
     },
     {
-      "name": "HealthTech Innovations",
-      "logo": "https://via.placeholder.com/200x80/10b981/ffffff?text=HealthTech",
+      "name": "Apex Healthcare Systems",
+      "logo": "https://logoipsum.com/logo/logo-114.svg",
       "industry": "Healthcare",
       "project": "Patient Management System",
       "testimonial": "The AI-powered patient insights have revolutionized how we deliver healthcare services.",
       "result": "60% improvement in patient satisfaction"
     },
     {
-      "name": "RetailMax Global",
-      "logo": "https://via.placeholder.com/200x80/f59e0b/ffffff?text=RetailMax",
+      "name": "Velocity Commerce Co",
+      "logo": "https://logoipsum.com/logo/logo-113.svg",
       "industry": "E-commerce",
       "project": "AI-Powered Recommendation Engine",
       "testimonial": "Our conversion rates skyrocketed after implementing their machine learning recommendations.",
       "result": "35% increase in sales conversion"
     },
     {
-      "name": "EduLearn Platform",
-      "logo": "https://via.placeholder.com/200x80/8b5cf6/ffffff?text=EduLearn",
+      "name": "Nexus Learning Solutions",
+      "logo": "https://logoipsum.com/logo/logo-112.svg",
       "industry": "Education",
       "project": "Learning Management System",
       "testimonial": "The adaptive learning features have completely transformed our online education delivery.",
       "result": "50% improvement in student engagement"
     },
     {
-      "name": "LogiChain Networks",
-      "logo": "https://via.placeholder.com/200x80/ef4444/ffffff?text=LogiChain",
+      "name": "Summit Logistics Network",
+      "logo": "https://logoipsum.com/logo/logo-111.svg",
       "industry": "Logistics",
       "project": "Supply Chain Optimization",
       "testimonial": "Their IoT and AI integration optimized our entire supply chain operations.",
