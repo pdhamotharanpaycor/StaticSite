@@ -27,10 +27,10 @@ const Footer = () => {
     resources: {
       title: 'Resources',
       links: [
-        { name: 'Blog', path: '#' },
-        { name: 'Case Studies', path: '#' },
-        { name: 'Documentation', path: '#' },
-        { name: 'Support Center', path: '#' },
+        { name: 'Blog', path: '/blog' },
+        { name: 'Case Studies', path: '/case-studies' },
+        { name: 'Documentation', path: '/documentation' },
+        { name: 'Support Center', path: '/support' },
       ],
     },
   };
@@ -119,15 +119,24 @@ const Footer = () => {
             </div>
             
             <div className="flex flex-wrap items-center space-x-6 text-sm text-white/70">
-              <a href="#" className="hover:text-white transition-colors duration-200">
+              <button 
+                onClick={() => {/* Handle privacy policy */}} 
+                className="hover:text-white transition-colors duration-200 bg-transparent border-none cursor-pointer"
+              >
                 Privacy Policy
-              </a>
-              <a href="#" className="hover:text-white transition-colors duration-200">
+              </button>
+              <button 
+                onClick={() => {/* Handle terms of service */}} 
+                className="hover:text-white transition-colors duration-200 bg-transparent border-none cursor-pointer"
+              >
                 Terms of Service
-              </a>
-              <a href="#" className="hover:text-white transition-colors duration-200">
+              </button>
+              <button 
+                onClick={() => {/* Handle cookie policy */}} 
+                className="hover:text-white transition-colors duration-200 bg-transparent border-none cursor-pointer"
+              >
                 Cookie Policy
-              </a>
+              </button>
             </div>
           </div>
         </div>
