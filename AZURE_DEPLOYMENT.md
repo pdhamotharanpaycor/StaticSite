@@ -13,7 +13,7 @@ npm run build
 ```bash
 # Replace with your storage account details
 STORAGE_ACCOUNT_NAME="yourstorageaccount"
-RESOURCE_GROUP="your-resource-group"
+RESOURCE_GROUP="palspoc"
 
 # Enable static website
 az storage blob service-properties update \
@@ -51,7 +51,7 @@ npm run build
 
 # Set variables
 $storageAccountName = "yourstorageaccount"
-$resourceGroup = "your-resource-group"
+$resourceGroup = "palspoc"
 
 # Enable static website
 az storage blob service-properties update `
@@ -71,7 +71,7 @@ az storage blob upload-batch `
 # Get website URL
 az storage account show `
     --name $storageAccountName `
-    --resource-group $resourceGroup `
+    --resource-group "palspoc" `
     --query "primaryEndpoints.web" `
     --output tsv
 ```

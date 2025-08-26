@@ -3,7 +3,7 @@
 
 # Configuration - UPDATE THESE VALUES
 $storageAccountName = "your-storage-account-name"  # Replace with your storage account name
-$resourceGroup = "your-resource-group-name"        # Replace with your resource group name
+$resourceGroup = "palspoc"                         # Your resource group name
 
 Write-Host "🚀 Starting Azure Storage Static Website Deployment" -ForegroundColor Green
 
