@@ -1,0 +1,86 @@
+{
+  "heading": {
+    "title": "Our Services",
+    "subtitle": "Comprehensive Software Solutions for Modern Businesses",
+    "description": "We offer end-to-end software services powered by AI and modern cloud technologies, designed to accelerate your digital transformation journey."
+  },
+  "services": [
+    {
+      "title": "Software Development from Scratch",
+      "description": "Building custom software solutions from the ground up using modern frameworks, AI integration, and cloud-native architecture. We specialize in creating scalable applications that grow with your business.",
+      "icon": "fas fa-code",
+      "features": [
+        "Custom Web & Mobile Applications",
+        "AI-Powered Features Integration",
+        "Microservices Architecture",
+        "API Development & Integration",
+        "Real-time Data Processing"
+      ],
+      "technologies": ["React", "Node.js", "Python", "AWS", "Docker"]
+    },
+    {
+      "title": "Legacy App Migration to Cloud",
+      "description": "Modernizing your existing applications to leverage cloud computing benefits. We ensure seamless migration with minimal downtime and enhanced performance, security, and scalability.",
+      "icon": "fas fa-cloud-upload-alt",
+      "features": [
+        "Cloud Architecture Assessment",
+        "Zero-Downtime Migration",
+        "Performance Optimization",
+        "Security Enhancement",
+        "Cost Optimization"
+      ],
+      "technologies": ["AWS", "Azure", "Kubernetes", "Terraform", "CI/CD"]
+    },
+    {
+      "title": "App Maintenance & Support",
+      "description": "Ensuring the stability, performance, and security of your existing applications. Our maintenance services include regular updates, monitoring, optimization, and 24/7 technical support.",
+      "icon": "fas fa-tools",
+      "features": [
+        "24/7 Monitoring & Support",
+        "Performance Optimization",
+        "Security Updates & Patches",
+        "Bug Fixes & Enhancements",
+        "Backup & Disaster Recovery"
+      ],
+      "technologies": ["Monitoring Tools", "DevOps", "Security Scanning", "Automated Testing"]
+    },
+    {
+      "title": "Client Implementation & Experience Support",
+      "description": "Supporting seamless onboarding and integration of new technologies into your existing workflows. We provide comprehensive training, documentation, and ongoing support to ensure successful adoption.",
+      "icon": "fas fa-users-cog",
+      "features": [
+        "Implementation Planning",
+        "Team Training & Workshops",
+        "Documentation & Guides",
+        "Change Management Support",
+        "Ongoing Success Monitoring"
+      ],
+      "technologies": ["Training Platforms", "Documentation Tools", "Support Systems"]
+    }
+  ],
+  "process": {
+    "title": "Our Development Process",
+    "steps": [
+      {
+        "number": "01",
+        "title": "Discovery & Analysis",
+        "description": "Understanding your business needs and technical requirements"
+      },
+      {
+        "number": "02", 
+        "title": "Architecture & Design",
+        "description": "Creating scalable system architecture and user-centric design"
+      },
+      {
+        "number": "03",
+        "title": "Development & Testing",
+        "description": "Agile development with continuous testing and quality assurance"
+      },
+      {
+        "number": "04",
+        "title": "Deployment & Support",
+        "description": "Seamless deployment with ongoing maintenance and support"
+      }
+    ]
+  }
+}

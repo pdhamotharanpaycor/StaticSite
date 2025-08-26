@@ -1,0 +1,49 @@
+{
+  "hero": {
+    "title": "AI-Powered Software Solutions",
+    "subtitle": "Transforming Businesses Through Intelligent Technology",
+    "description": "We are digital transformation catalysts, building cutting-edge software solutions that leverage AI and machine learning to revolutionize your business operations.",
+    "ctaText": "Explore Our Services",
+    "ctaLink": "/services"
+  },
+  "features": [
+    {
+      "icon": "fas fa-brain",
+      "title": "AI-First Approach",
+      "description": "Every solution we build incorporates artificial intelligence to provide smart, adaptive functionality."
+    },
+    {
+      "icon": "fas fa-rocket",
+      "title": "Rapid Innovation",
+      "description": "Accelerate your digital transformation with our agile development methodology and cutting-edge tech stack."
+    },
+    {
+      "icon": "fas fa-shield-alt",
+      "title": "Enterprise Security",
+      "description": "Built with security-first principles, ensuring your data and operations remain protected and compliant."
+    },
+    {
+      "icon": "fas fa-infinity",
+      "title": "Scalable Solutions",
+      "description": "Our cloud-native architecture ensures your applications can scale seamlessly as your business grows."
+    }
+  ],
+  "stats": [
+    {
+      "number": "100+",
+      "label": "Projects Delivered"
+    },
+    {
+      "number": "50+",
+      "label": "Happy Clients"
+    },
+    {
+      "number": "99.9%",
+      "label": "Uptime Guarantee"
+    },
+    {
+      "number": "24/7",
+      "label": "Support Available"
+    }
+  ]
+}

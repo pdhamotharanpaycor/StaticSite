@@ -1,0 +1,95 @@
+{
+  "heading": {
+    "title": "Get In Touch",
+    "subtitle": "Ready to Transform Your Business?",
+    "description": "Let's discuss how we can help accelerate your digital transformation journey with AI-powered solutions."
+  },
+  "contactInfo": {
+    "address": {
+      "street": "123 Innovation Drive, Suite 500",
+      "city": "Tech Valley",
+      "state": "CA",
+      "zipCode": "94025",
+      "country": "United States"
+    },
+    "phone": "+1 (555) 123-4567",
+    "email": "hello@technova.com",
+    "business_hours": {
+      "weekdays": "Monday - Friday: 9:00 AM - 6:00 PM PST",
+      "weekends": "Saturday: 10:00 AM - 2:00 PM PST",
+      "emergency": "24/7 Emergency Support Available"
+    }
+  },
+  "socialMedia": [
+    {
+      "platform": "LinkedIn",
+      "icon": "fab fa-linkedin",
+      "url": "https://linkedin.com/company/technova",
+      "handle": "@technova"
+    },
+    {
+      "platform": "Twitter",
+      "icon": "fab fa-twitter",
+      "url": "https://twitter.com/technova",
+      "handle": "@technova"
+    },
+    {
+      "platform": "GitHub",
+      "icon": "fab fa-github",
+      "url": "https://github.com/technova",
+      "handle": "@technova"
+    },
+    {
+      "platform": "Medium",
+      "icon": "fab fa-medium",
+      "url": "https://medium.com/@technova",
+      "handle": "@technova"
+    }
+  ],
+  "formFields": [
+    {
+      "name": "name",
+      "label": "Full Name",
+      "type": "text",
+      "required": true,
+      "placeholder": "Enter your full name"
+    },
+    {
+      "name": "email",
+      "label": "Email Address", 
+      "type": "email",
+      "required": true,
+      "placeholder": "Enter your email address"
+    },
+    {
+      "name": "company",
+      "label": "Company",
+      "type": "text",
+      "required": false,
+      "placeholder": "Enter your company name"
+    },
+    {
+      "name": "subject",
+      "label": "Subject",
+      "type": "text",
+      "required": true,
+      "placeholder": "What can we help you with?"
+    },
+    {
+      "name": "message",
+      "label": "Message",
+      "type": "textarea",
+      "required": true,
+      "placeholder": "Tell us about your project or question..."
+    }
+  ],
+  "mapCoordinates": {
+    "lat": 37.4419,
+    "lng": -122.1430
+  },
+  "officeHours": [
+    "Monday - Friday: 9:00 AM - 6:00 PM PST",
+    "Saturday: 10:00 AM - 2:00 PM PST", 
+    "Sunday: Closed (Emergency support available)"
+  ]
+}
