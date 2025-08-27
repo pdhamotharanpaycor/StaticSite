@@ -7,7 +7,7 @@
   "clients": [
     {
       "name": "Quantum Dynamics Corp",
-      "logo": "https://logoipsum.com/logo/logo-116.svg",
+      "logo": "/logos/quantum-dynamics.svg",
       "industry": "Technology",
       "project": "Cloud Migration & AI Integration",
       "testimonial": "TechNova transformed our legacy systems into a modern, AI-powered platform. The results exceeded our expectations.",
@@ -15,7 +15,7 @@
     },
     {
       "name": "Meridian Financial Group",
-      "logo": "https://logoipsum.com/logo/logo-115.svg",
+      "logo": "/logos/meridian-financial.svg",
       "industry": "Financial Services",
       "project": "Custom Trading Platform",
       "testimonial": "Their expertise in building secure, high-performance financial applications is unmatched.",
@@ -23,7 +23,7 @@
     },
     {
       "name": "Apex Healthcare Systems",
-      "logo": "https://logoipsum.com/logo/logo-114.svg",
+      "logo": "/logos/apex-healthcare.svg",
       "industry": "Healthcare",
       "project": "Patient Management System",
       "testimonial": "The AI-powered patient insights have revolutionized how we deliver healthcare services.",
@@ -31,7 +31,7 @@
     },
     {
       "name": "Velocity Commerce Co",
-      "logo": "https://logoipsum.com/logo/logo-113.svg",
+      "logo": "/logos/velocity-commerce.svg",
       "industry": "E-commerce",
       "project": "AI-Powered Recommendation Engine",
       "testimonial": "Our conversion rates skyrocketed after implementing their machine learning recommendations.",
@@ -39,7 +39,7 @@
     },
     {
       "name": "Nexus Learning Solutions",
-      "logo": "https://logoipsum.com/logo/logo-112.svg",
+      "logo": "/logos/nexus-learning.svg",
       "industry": "Education",
       "project": "Learning Management System",
       "testimonial": "The adaptive learning features have completely transformed our online education delivery.",
@@ -47,7 +47,7 @@
     },
     {
       "name": "Summit Logistics Network",
-      "logo": "https://logoipsum.com/logo/logo-111.svg",
+      "logo": "/logos/summit-logistics.svg",
       "industry": "Logistics",
       "project": "Supply Chain Optimization",
       "testimonial": "Their IoT and AI integration optimized our entire supply chain operations.",

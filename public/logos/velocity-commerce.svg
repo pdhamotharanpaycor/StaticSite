@@ -1,0 +1,21 @@
+<svg width="200" height="80" viewBox="0 0 200 80" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="velocityGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#F59E0B;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#D97706;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="200" height="80" rx="8" fill="#1E293B" stroke="url(#velocityGrad)" stroke-width="2"/>
+  
+  <!-- Commerce Symbol -->
+  <rect x="20" y="35" width="20" height="12" fill="none" stroke="url(#velocityGrad)" stroke-width="2" rx="2"/>
+  <circle cx="25" cy="50" r="3" fill="none" stroke="url(#velocityGrad)" stroke-width="2"/>
+  <circle cx="35" cy="50" r="3" fill="none" stroke="url(#velocityGrad)" stroke-width="2"/>
+  <path d="M22 37 L25 32 L30 37" stroke="url(#velocityGrad)" stroke-width="2" fill="none"/>
+  
+  <!-- Company Name -->
+  <text x="50" y="35" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#E2E8F0">Velocity</text>
+  <text x="50" y="50" font-family="Arial, sans-serif" font-size="12" fill="#94A3B8">Commerce</text>
+</svg>
